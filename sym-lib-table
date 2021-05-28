@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Leistungsschalter)(type Legacy)(uri ${KIPRJMOD}/Leistungsschalter.lib)(options "")(descr ""))
+  (lib (name PCB-rescue)(type Legacy)(uri ${KIPRJMOD}/PCB-rescue.lib)(options "")(descr ""))
+)
